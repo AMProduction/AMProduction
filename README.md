@@ -5,6 +5,8 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMProduction&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMProduction&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMProduction&theme=nord_dark)
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![](https://komarev.com/ghpvc/?username=AMProduction)
 <!--
