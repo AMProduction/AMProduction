@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/andrii-malchyk" target="_blank">Andrii</a>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMProduction&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMProduction&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMProduction&theme=nord_dark)
+
+![](https://komarev.com/ghpvc/?username=AMProduction)
 <!--
 **AMProduction/AMProduction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
