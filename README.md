@@ -10,7 +10,7 @@
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![](https://komarev.com/ghpvc/?username=AMProduction)
+[![AMProduction profile views](https://u8views.com/api/v1/github/profiles/16936079/views/day-week-month-total-count.svg)](https://u8views.com/github/AMProduction)
 <!--
 **AMProduction/AMProduction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
